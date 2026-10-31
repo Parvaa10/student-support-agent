@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+storage/*.db
+storage/*.json
+storage/*.jsonl
+!storage/.gitkeep
+eval/results/eval_memory*.db
+.streamlit/secrets.toml
+.DS_Store

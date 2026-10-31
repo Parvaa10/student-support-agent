@@ -1,0 +1,4 @@
+{
+  "S1001": {"term": 3, "currency": "INR", "term_fee": 185000, "paid": 100000, "outstanding": 85000, "due_date": "2026-11-10", "instalment_plan": "2 instalments", "last_payment": {"date": "2026-10-05", "amount": 100000, "reference": "TXN-88213"}},
+  "S1002": {"term": 3, "currency": "INR", "term_fee": 185000, "scholarship_adjustment": 46250, "paid": 138750, "outstanding": 0, "due_date": "2026-11-10", "instalment_plan": "full payment", "last_payment": {"date": "2026-10-12", "amount": 138750, "reference": "TXN-90477"}}
+}

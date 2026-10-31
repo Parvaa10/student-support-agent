@@ -1,0 +1,12 @@
+[
+  {
+    "ticket_id": "TKT-261031-04B4",
+    "student_id": "S1002",
+    "category": "it_support",
+    "priority": "normal",
+    "summary": "Student ID card stopped working at the library gate since Monday.",
+    "status": "open",
+    "created_at": "2026-10-31T20:14:42",
+    "sla": "2 working days"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "S1001": {"name": "Aarav Shah", "programme": "PGDM", "specialisation": "Big Data Analytics", "batch": "2025-27", "current_term": 3, "cgpa": 3.42, "attendance_pct": 86, "faculty_advisor": "Dr. K. Menon", "email_on_file": "aarav.s@student.example.edu"},
+  "S1002": {"name": "Meera Iyer", "programme": "PGDM", "specialisation": "AI & Data Science", "batch": "2025-27", "current_term": 3, "cgpa": 3.71, "attendance_pct": 92, "faculty_advisor": "Dr. R. Bose", "email_on_file": "meera.i@student.example.edu"},
+  "S1003": {"name": "Rohan Das", "programme": "PGDM", "specialisation": "Big Data Analytics", "batch": "2025-27", "current_term": 3, "cgpa": 2.95, "attendance_pct": 74, "faculty_advisor": "Dr. K. Menon", "email_on_file": "rohan.d@student.example.edu"}
+}
